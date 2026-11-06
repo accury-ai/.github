@@ -1,22 +1,17 @@
-# ACCURY AI
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./accury-white.svg">
+  <img src="./accury-s01.svg" alt="ACCURY" width="220">
+</picture>
 
-ACCURY AI helps teams turn complex work into clear, reliable workflows.
+## More growth.<br>Same back office.
 
-It is built for businesses that want to save time, reduce manual errors, and make better decisions with practical AI tools.
+ACCURY builds order, profit and quoting software for small trade and manufacturing teams. Your parts hold tolerance. Your numbers should too.
 
-## What It Does
+|    | Product    | What it does | Status |
+| -- | ---------- | ------------ | ------ |
+| 01 | TrackEZ    | Turn incoming customer POs into a clear workflow. Track orders, documents and line items in one place. | Live |
+| 02 | Ledger     | Connect PO revenue, operational costs and rep commissions. See the profit behind each order from one clear view. | Live |
+| 03 | QuoteSmart | Analyze PDF drawings and STEP models, review weights and apply company material rates. | Available |
+| 04 | FlowIQ     | FlowIQ is planned to connect the product suite into one pipeline. AKU is the planned AI agent that helps you work across it. | Planned |
 
-- Understands business tasks and data.
-- Helps automate daily workflows.
-- Supports faster and clearer decision-making.
-- Keeps work organized, traceable, and easier to manage.
-
-## Who It Is For
-
-ACCURY AI is for teams that need simple, dependable AI support for operations, analysis, and process improvement.
-
-## Project Status
-
-This project is in active development.
-
-The goal is to build AI tools that are easy to use, easy to trust, and useful in real business work.
+[accury.ai](https://accury.ai/) · contact@accury.ai
